@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "deutchesberg.aternos.me",
+    "port": 30667,
+    "version": "1.21",
     "try-creative": false
   },
   "position": {
